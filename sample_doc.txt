@@ -1,0 +1,35 @@
+🌍 Sample Document: "The Future of Artificial Intelligence"
+
+Artificial Intelligence (AI) is one of the most transformative technologies of our era.
+It powers applications ranging from virtual assistants like Siri and Alexa to autonomous vehicles and advanced healthcare systems.
+
+Key Areas of AI:
+
+Natural Language Processing (NLP) – Enables machines to understand and generate human language.
+
+Computer Vision – Powers facial recognition, object detection, and medical image analysis.
+
+Robotics – AI-driven robots are revolutionizing manufacturing, logistics, and space exploration.
+
+Generative AI – Tools like ChatGPT and DALL·E can generate text, code, and even images.
+
+Benefits of AI:
+
+Improves efficiency and productivity.
+
+Provides predictive insights from large datasets.
+
+Enhances customer experience.
+
+Challenges of AI:
+
+Ethical concerns such as bias in algorithms.
+
+Job displacement due to automation.
+
+Data privacy and security risks.
+
+The Road Ahead:
+
+AI will continue to evolve, with breakthroughs in reasoning, creativity, and collaboration between humans and machines.
+The future of AI depends on responsible innovation and governance.
